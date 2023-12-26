@@ -1,2 +1,2 @@
 # web-xterm
-Xterm.js-bbaased website
+Xterm.js-based website
